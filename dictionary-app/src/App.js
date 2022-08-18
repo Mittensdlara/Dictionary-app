@@ -1,5 +1,6 @@
 import './App.css';
 import logo from './logo-shecodes.png'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function App() {
   return (
