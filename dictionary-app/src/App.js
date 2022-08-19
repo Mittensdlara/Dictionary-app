@@ -11,7 +11,7 @@ export default function App() {
         
        <img src={logo} alt='logo' width="300px" className='rounded mx-auto d-block'/>
       </header>
-      <footer className='text-center'>Coded by Del❤</footer>
+      <footer className='text-center'>yes Coded by Del❤</footer>
       </div>
     </div>
   );
