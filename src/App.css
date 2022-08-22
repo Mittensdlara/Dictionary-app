@@ -11,6 +11,13 @@
   padding-right: 35px;
 
   }
+  @media only screen and (max-width: 600px) {
+    .App {
+        background-color: #e7e1fc;
+        max-width: 550px;
+    }
+
+  }
   
   a {
     color: #9670f4;

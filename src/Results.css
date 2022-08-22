@@ -5,3 +5,8 @@
     color: #ffa63a;
   }
 
+  @media only screen and (max-width: 600px) {
+    .Results h2 {
+      font-size: 25px;
+    }
+  }
