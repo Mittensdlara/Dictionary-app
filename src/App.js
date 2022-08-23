@@ -14,7 +14,7 @@ export default function App() {
       <main>
         <Dictionary defaultKeyword="Sunset" />
       </main>
-      <footer className='App-footer'>Coded by Del❤ open sourced on <a href='https://github.com/mittensdlara/dictionary-app'>Github</a></footer>
+      <footer className='App-footer'>Coded by Del❤ open sourced on <a href='https://github.com/mittensdlara/dictionary-app' target="_blank" rel='noreferrer'>Github</a></footer>
       </div>
     </div>
   );
