@@ -2,11 +2,17 @@
     font-size: 36px;
     font-weight: bold;
     line-height: 1.5;
-    color: #ffa63a;
+    color: #ff8843;
   }
 
   @media only screen and (max-width: 600px) {
     .Results h2 {
       font-size: 25px;
+    }
+    .Results {
+        font-size: 13px;
+        list-style: none;
+       
+
     }
   }
